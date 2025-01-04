@@ -1,0 +1,7 @@
+{
+  "name": "LearnAcadamyMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
